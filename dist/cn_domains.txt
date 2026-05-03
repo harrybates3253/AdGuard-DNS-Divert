@@ -7892,6 +7892,7 @@
 7-mi.net
 7-vk.com
 7-wx.com
+7.pK
 70.cc
 700618.com
 70098.com
@@ -13218,7 +13219,6 @@ api.anythinktech.com
 api.cnno1.uds.lenovo.com
 api.djiservice.org
 api.euwe1.uds.lenovo.com
-api.mob.app.letv.com
 api.naea1.uds.lenovo.com
 api.so
 api.uds.lenovo.com
@@ -13236,7 +13236,6 @@ apifox.com
 apifoxmock.com
 apigateway.info
 apigwtencent.com
-apiintl.biliapi.net
 apim.work
 apipost.net
 apira.org
@@ -16658,7 +16657,6 @@ bilibili.co
 bilibili.com
 bilibili.li
 bilibili.net
-bilibili.tv
 bilibili996.com
 bilibiligame.co
 bilibiligame.net
@@ -53074,8 +53072,6 @@ intecol-10iwc.com
 intedc.com
 integrity-funds.com
 intekey.com
-intel-cache.m.iqiyi.com
-intel-cache.video.iqiyi.com
 intel-space.com
 intelcupid.com
 intellect.black
@@ -53086,8 +53082,6 @@ intelvisioncn.com
 intencent.com
 inter-credit.net
 inter-rock.com
-inter.iqiyi.com
-inter.ptqy.gitv.tv
 inter1908.net
 interactivebrokers.hk
 interchinawater.com
@@ -53101,9 +53095,6 @@ internettrademark.com
 intertid.com
 interval.im
 intimerent.com
-intl-rcd.iqiyi.com
-intl-subscription.iqiyi.com
-intl.iqiyi.com
 intlgame.com
 intlqydd.info
 intlscdn.com
@@ -53371,7 +53362,6 @@ ipv6radar.com
 ipv6testingcenter.com
 ipwuji.com
 ipyy.com
-iq.com
 iq123.com
 iq33.com
 iqalliance.org
@@ -95079,7 +95069,6 @@ uplookedu.com
 uplooking.com
 upluck.cc
 upnono.com
-upos-hz-mirrorakam.akamaized.net
 upowerchain.com
 uppershop.hk
 upppt.com
@@ -95433,7 +95422,6 @@ v-mate.mobi
 v-simtone.com
 v-suan.com
 v-vay.com
-v.smtcdns.com
 v.sohu
 v.to
 v007.net
@@ -96564,7 +96552,6 @@ vutimes.com
 vuz.me
 vv-tool.com
 vv.cc
-vv.video.qq.com
 vv1628.cc
 vv27.com
 vv3111.com
