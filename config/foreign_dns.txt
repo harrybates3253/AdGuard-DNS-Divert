@@ -1,3 +1,2 @@
-https://wikimedia-dns.org:443/dns-query
-tls://8e918b.dns.nextdns.io
-quic://8e918b.dns.nextdns.io
+https://dns.cloudflare.com/dns-query
+https://dns.google/dns-query
