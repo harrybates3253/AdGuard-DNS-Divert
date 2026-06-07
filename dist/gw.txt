@@ -1,5 +1,5 @@
 # AdGuard Home DNS 分流配置 - 黑名单模式（逐条规则）
-# 自动生成于 2026-06-06 10:26:08
+# 自动生成于 2026-06-07 10:43:23
 # 黑名单模式：命中国外域名走国外DNS，其他走国内DNS
 # 包含自定义域名DNS规则
 
@@ -63,7 +63,7 @@ https://doh.pub/dns-query
 [/youku.com/]https://dns.alidns.com/dns-query
 
 #==================================================
-# 国外域名规则（共 32829 个域名，逐条规则）
+# 国外域名规则（共 32831 个域名，逐条规则）
 # 已排除 18 个自定义DNS域名（含通配符模糊覆盖）
 #==================================================
 [/000webhost.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
@@ -27166,6 +27166,7 @@ https://doh.pub/dns-query
 [/suttoncollege.ac.uk/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/suxib.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/suxiebu.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
+[/suyingtv.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/sv/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/svaboda.org/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/svc.ms/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
@@ -31210,6 +31211,7 @@ https://doh.pub/dns-query
 [/wp-themes.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/wp.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/wpewebkit.org/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
+[/wplace.live/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/wpoforum.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/wpvip.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/wqe.ac.uk/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
