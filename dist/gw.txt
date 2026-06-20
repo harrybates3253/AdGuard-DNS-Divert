@@ -1,5 +1,5 @@
 # AdGuard Home DNS 分流配置 - 黑名单模式（逐条规则）
-# 自动生成于 2026-06-19 11:30:51
+# 自动生成于 2026-06-20 10:35:52
 # 黑名单模式：命中国外域名走国外DNS，其他走国内DNS
 # 包含自定义域名DNS规则
 
@@ -63,7 +63,7 @@ https://doh.pub/dns-query
 [/youku.com/]https://dns.alidns.com/dns-query
 
 #==================================================
-# 国外域名规则（共 32832 个域名，逐条规则）
+# 国外域名规则（共 32835 个域名，逐条规则）
 # 已排除 18 个自定义DNS域名（含通配符模糊覆盖）
 #==================================================
 [/000webhost.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
@@ -845,6 +845,7 @@ https://doh.pub/dns-query
 [/account-paypal.net/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/account-paypal.org/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/accountancylearning.ac.uk/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
+[/accountboy.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/accountkit.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/accountpaypal.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/accountpaypal.net/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
@@ -19467,6 +19468,7 @@ https://doh.pub/dns-query
 [/moodleshare-hw.ac.uk/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/moodstocks.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/moodyz.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
+[/moomoo.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/moon.fm/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/moonbbs.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/moonbingo.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
@@ -31667,6 +31669,7 @@ https://doh.pub/dns-query
 [/xn--ubt498knmf.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/xn--uis17aj9kmuf.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/xn--urs05q.jp/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
+[/xn--vuqv2cf7wzyig79c.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/xn--x-qeu1ji09tzlg.biz/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/xn--x-qeu1ji09tzlg.net/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/xn--xsq421m.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query

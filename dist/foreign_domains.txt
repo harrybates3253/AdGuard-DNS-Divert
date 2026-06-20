@@ -777,6 +777,7 @@ account-paypal.info
 account-paypal.net
 account-paypal.org
 accountancylearning.ac.uk
+accountboy.com
 accountkit.com
 accountpaypal.com
 accountpaypal.net
@@ -19409,6 +19410,7 @@ monthlyav.com
 moodleshare-hw.ac.uk
 moodstocks.com
 moodyz.com
+moomoo.com
 moon.fm
 moonbbs.com
 moonbingo.com
@@ -31623,6 +31625,7 @@ xn--u2u927b.com
 xn--ubt498knmf.com
 xn--uis17aj9kmuf.com
 xn--urs05q.jp
+xn--vuqv2cf7wzyig79c.com
 xn--x-qeu1ji09tzlg.biz
 xn--x-qeu1ji09tzlg.net
 xn--xsq421m.com
