@@ -2819,7 +2819,6 @@
 1uuc.com
 1wang.com
 1x3x.com
-1xcT.z
 1xinzulin.com
 1xmb.com
 1y.com
@@ -9878,8 +9877,8 @@
 9zhen.com
 9znet.com
 9zx.com
-Q.4
-Uw.A
+JpB.t
+Wk.5OkL
 a-b.cc
 a-du.net
 a-isv.org
@@ -13940,6 +13939,7 @@ b-fairy.com
 b-k-automation.com
 b-raymedia.com
 b.biz
+b.c2r.ts.cdn.office.net
 b01.net
 b02f0d7f3745ba7c.com
 b041e427810281.beer
@@ -18526,7 +18526,6 @@ c-wms.com
 c-yl.com
 c.admob.com
 c.citic
-c.e
 c.pki.goog
 c03b92b501009.beer
 c098d113b11031.beer
@@ -28734,6 +28733,7 @@ dev59.com
 devashen.com
 devask.net
 devbean.net
+devblogs.microsoft.com
 devclub.cc
 devedu.net
 develenv.com
@@ -33769,7 +33769,9 @@ f-biology.com
 f-dou.com
 f-insight.com
 f-stack.org
+f.YI
 f.biz
+f.c2r.ts.cdn.office.net
 f.cx
 f008.com
 f015dfc4510292.beer
@@ -36714,7 +36716,6 @@ g-proxy.com
 g-spin.com
 g-tar.com
 g-var.com
-g.WJ
 g.biz
 g00gle.vip
 g015bs0428137.luxe
@@ -38995,9 +38996,6 @@ goforandroid.com
 goframe.org
 gofreeplay.com
 gofrp.org
-gog-cdn-fastly.gog.com
-gog-cdn.akamaized.net
-gogalaxy.gog-statics.com
 gogbuy.com
 goglew5sn.com
 gogo.so
@@ -59566,7 +59564,6 @@ kwx.gd
 kwxcj.com
 kwxjh.net
 kx-turbo.com
-kx.Ms
 kx001.com
 kx139.com
 kx1978.com
@@ -65563,7 +65560,6 @@ menshiny.com
 mentamob.com
 mentorsc.com
 mentrends.com
-menu-static.gog-statics.com
 menubarx.app
 menwee.com
 menww.com
@@ -70774,6 +70770,7 @@ nx5.com
 nxadmin.com
 nxcells.com
 nxcrb.com
+nxd.e
 nxdns.net
 nxeduyun.com
 nxengine.com
@@ -72032,6 +72029,7 @@ p-pass.com
 p-sig-dom.com
 p-sig-dom.net
 p.biz
+p.cdn.persaas.dell.com
 p023.com
 p0371.com
 p0431.com
@@ -73914,7 +73912,6 @@ product-cn.dji.com
 product1.djicdn.com
 product2.djicdn.com
 product4.djicdn.com
-productcard.gog-statics.com
 productivity.wiki
 profile.globalsign.com
 proginn.com
@@ -81403,6 +81400,7 @@ shejiyue.com
 sheketiandi.com
 shekou.com
 shelive.net
+shell.cdn.office.net
 shellpub.com
 shellsec.com
 shelter-china.com
@@ -85235,7 +85233,6 @@ starwsn.com
 starxn.com
 staryea.com
 stat-nba.com
-static-login.gog-statics.com
 static.cdnetworks.com
 static.djicdn.com
 static.eprintsw.com
@@ -85248,6 +85245,7 @@ staticfile.net
 staticfile.org
 statickksmg.com
 statics.cc
+statics.teams.cdn.office.net
 staticsdd.com
 staticsoe.com
 staticsoem.com
@@ -97917,7 +97915,6 @@ www11ic-shinkni-ib-jp.com
 www2.djicdn.com
 www2489.com
 www3.djicdn.com
-www4-static.gog-statics.com
 www4.djicdn.com
 www48-365365.com
 www5.djicdn.com
