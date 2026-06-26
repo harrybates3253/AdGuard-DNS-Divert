@@ -12033,6 +12033,7 @@ gerefoundation.org
 gerritcodereview.com
 gesource.ac.uk
 get.app
+get.dappcdn.com
 get.dev
 get.how
 get.new
