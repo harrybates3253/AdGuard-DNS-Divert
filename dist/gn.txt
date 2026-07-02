@@ -1,5 +1,5 @@
 # AdGuard Home DNS 分流配置 - 白名单模式（逐条规则）
-# 自动生成于 2026-07-01 10:40:43
+# 自动生成于 2026-07-02 10:30:15
 # 白名单模式：命中国内域名走国内DNS，其他走国外DNS
 # 包含自定义域名DNS规则
 
@@ -63,7 +63,7 @@ https://dns.google/dns-query
 [/youku.com/]https://dns.alidns.com/dns-query
 
 #==================================================
-# 国内域名规则（共 112107 个域名，逐条规则）
+# 国内域名规则（共 112109 个域名，逐条规则）
 # 已排除 26 个自定义DNS域名（含通配符模糊覆盖）
 #==================================================
 [/0.xn--czrs0t/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
@@ -9900,6 +9900,9 @@ https://dns.google/dns-query
 [/9zhen.com/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/9znet.com/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/9zx.com/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
+[/DH.iZ/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
+[/G.T7/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
+[/V4M9.5/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/a-b.cc/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/a-du.net/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/a-isv.org/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
@@ -71129,7 +71132,6 @@ https://dns.google/dns-query
 [/omeet.cc/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/omegatravel.net/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/omen.com/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
-[/omgX.pf/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/omgxy.com/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/omiaozu.com/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/omicsclass.com/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
