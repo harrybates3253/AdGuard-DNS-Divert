@@ -1,4 +1,4 @@
-0.0
+.h.x
 0.xn--czrs0t
 0.xn--unup4y
 0.zone
@@ -9802,6 +9802,8 @@
 9zhen.com
 9znet.com
 9zx.com
+M.FP
+Q.4
 a-b.cc
 a-du.net
 a-isv.org
@@ -9895,6 +9897,7 @@ a9998f7ed11042.beer
 a9c7f491710251.beer
 a9market.com
 a9vg.com
+aDb.cw
 aa08072678.xyz
 aa152.com
 aa360.net
@@ -34797,6 +34800,7 @@ ffy.com
 ffyoo.com
 ffzww.com
 fg.cc
+fgS.K8s
 fgba.net
 fgcndigital.com
 fgeekcloud.com
@@ -42819,6 +42823,7 @@ h-shgroup.com
 h-ui.net
 h-world.com
 h-zl.net
+h.x
 h0591.com
 h12.net
 h12345.com
@@ -49682,6 +49687,7 @@ i-xoron.com
 i.dell.com
 i.pki.goog
 i.survey.lenovo.com
+i.xQMGs
 i0.pub
 i007.vip
 i027.com
@@ -68762,6 +68768,7 @@ nextvid.net
 nextworkshop.net
 nextyu.com
 nexus-holding.com
+nexus.dell.com
 nexusedgeio.com
 nexushd.org
 neyetwatcher.com
@@ -82671,6 +82678,7 @@ si-en.com
 si-era.com
 si-in.com
 si-win.com
+si.cdn.dell.com
 sia1995.net
 siad-c.com
 siaedu.net
@@ -85081,6 +85089,7 @@ store12.com
 storeapi.net
 storecorefulfillment.download.prss.microsoft.com
 storeedge.microsoft.com
+storeedgefd.dsx.mp.microsoft.com
 storkapp.me
 stormorai.com
 stormsend.dji.com
