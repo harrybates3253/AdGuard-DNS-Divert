@@ -1,5 +1,5 @@
 # AdGuard Home DNS 分流配置 - 白名单模式（逐条规则）
-# 自动生成于 2026-07-13 09:56:28
+# 自动生成于 2026-07-14 09:43:38
 # 白名单模式：命中国内域名走国内DNS，其他走国外DNS
 # 包含自定义域名DNS规则
 
@@ -63,10 +63,9 @@ https://dns.google/dns-query
 [/youku.com/]https://dns.alidns.com/dns-query
 
 #==================================================
-# 国内域名规则（共 112029 个域名，逐条规则）
+# 国内域名规则（共 112026 个域名，逐条规则）
 # 已排除 26 个自定义DNS域名（含通配符模糊覆盖）
 #==================================================
-[/.h.x/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/0.xn--czrs0t/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/0.xn--unup4y/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/0.zone/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
@@ -7593,6 +7592,7 @@ https://dns.google/dns-query
 [/7-mi.net/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/7-vk.com/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/7-wx.com/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
+[/7.pK/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/70.cc/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/700618.com/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/70098.com/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
@@ -9868,8 +9868,8 @@ https://dns.google/dns-query
 [/9zhen.com/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/9znet.com/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/9zx.com/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
-[/M.FP/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
-[/Q.4/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
+[/E.Mp/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
+[/M.b7/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/a-b.cc/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/a-du.net/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/a-isv.org/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
@@ -9963,7 +9963,6 @@ https://dns.google/dns-query
 [/a9c7f491710251.beer/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/a9market.com/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/a9vg.com/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
-[/aDb.cw/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/aa08072678.xyz/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/aa152.com/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/aa360.net/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
@@ -34858,7 +34857,6 @@ https://dns.google/dns-query
 [/ffyoo.com/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/ffzww.com/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/fg.cc/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
-[/fgS.K8s/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/fgba.net/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/fgcndigital.com/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/fgeekcloud.com/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
@@ -42881,7 +42879,6 @@ https://dns.google/dns-query
 [/h-ui.net/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/h-world.com/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/h-zl.net/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
-[/h.x/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/h0591.com/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/h12.net/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/h12345.com/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
@@ -49744,7 +49741,6 @@ https://dns.google/dns-query
 [/i.dell.com/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/i.pki.goog/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/i.survey.lenovo.com/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
-[/i.xQMGs/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/i0.pub/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/i007.vip/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/i027.com/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
@@ -59414,6 +59410,7 @@ https://dns.google/dns-query
 [/kwxcj.com/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/kwxjh.net/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/kx-turbo.com/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
+[/kx.Ms/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/kx001.com/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/kx139.com/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/kx1978.com/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
