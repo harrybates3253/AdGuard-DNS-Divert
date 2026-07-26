@@ -1,5 +1,5 @@
 # AdGuard Home DNS 分流配置 - 黑名单模式（逐条规则）
-# 自动生成于 2026-07-25 09:53:10
+# 自动生成于 2026-07-26 09:57:08
 # 黑名单模式：命中国外域名走国外DNS，其他走国内DNS
 # 包含自定义域名DNS规则
 
@@ -63,7 +63,7 @@ https://doh.pub/dns-query
 [/youku.com/]https://dns.alidns.com/dns-query
 
 #==================================================
-# 国外域名规则（共 32938 个域名，逐条规则）
+# 国外域名规则（共 32940 个域名，逐条规则）
 # 已排除 18 个自定义DNS域名（含通配符模糊覆盖）
 #==================================================
 [/000webhost.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
@@ -6648,6 +6648,7 @@ https://doh.pub/dns-query
 [/cios.org/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/ciota.ac.uk/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/cipfg.org/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
+[/circle19.org/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/circlethebayfortibet.org/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/cirencester.ac.uk/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/cirius.ac.uk/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
@@ -16577,6 +16578,7 @@ https://doh.pub/dns-query
 [/kaob3.xyz/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/kaotic.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/karayou.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
+[/kards.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/karechat.ai/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/karger.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/karinahart.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
