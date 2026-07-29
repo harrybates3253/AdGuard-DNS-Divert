@@ -1,5 +1,5 @@
 # AdGuard Home DNS 分流配置 - 黑名单模式（逐条规则）
-# 自动生成于 2026-07-28 09:46:50
+# 自动生成于 2026-07-29 09:48:43
 # 黑名单模式：命中国外域名走国外DNS，其他走国内DNS
 # 包含自定义域名DNS规则
 
@@ -63,7 +63,7 @@ https://doh.pub/dns-query
 [/youku.com/]https://dns.alidns.com/dns-query
 
 #==================================================
-# 国外域名规则（共 32940 个域名，逐条规则）
+# 国外域名规则（共 32941 个域名，逐条规则）
 # 已排除 18 个自定义DNS域名（含通配符模糊覆盖）
 #==================================================
 [/000webhost.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
@@ -28636,6 +28636,7 @@ https://doh.pub/dns-query
 [/truyentranh86.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/truyenwk.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/trv/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
+[/tryai.dev/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/tryalias.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/tryboobs.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/trycloudflare.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
