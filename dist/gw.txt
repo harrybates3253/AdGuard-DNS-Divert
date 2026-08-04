@@ -1,5 +1,5 @@
 # AdGuard Home DNS 分流配置 - 黑名单模式（逐条规则）
-# 自动生成于 2026-08-03 09:59:07
+# 自动生成于 2026-08-04 09:44:49
 # 黑名单模式：命中国外域名走国外DNS，其他走国内DNS
 # 包含自定义域名DNS规则
 
@@ -63,7 +63,7 @@ https://doh.pub/dns-query
 [/youku.com/]https://dns.alidns.com/dns-query
 
 #==================================================
-# 国外域名规则（共 32943 个域名，逐条规则）
+# 国外域名规则（共 32940 个域名，逐条规则）
 # 已排除 18 个自定义DNS域名（含通配符模糊覆盖）
 #==================================================
 [/000webhost.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
@@ -6236,6 +6236,7 @@ https://doh.pub/dns-query
 [/ceramics-cadcam.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/cercia.ac.uk/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/cerdas.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
+[/cerebras.ai/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/ceredigion.ac.uk/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/ceri.ac.uk/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/cerlim.ac.uk/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
@@ -19609,7 +19610,6 @@ https://doh.pub/dns-query
 [/moxing.news/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/moystoys.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/mozgcp.net/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
-[/mozilla.ai/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/mozilla.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/mozilla.community/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/mozilla.net/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
@@ -23704,7 +23704,6 @@ https://doh.pub/dns-query
 [/pure18.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/pureapk.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/pureconcepts.net/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
-[/puredns.org/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/pureinsight.org/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/purelov5.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/purelyceleb.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
@@ -23993,7 +23992,6 @@ https://doh.pub/dns-query
 [/radioaustralia.net.au/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/radiofarda.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/radiohilight.net/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
-[/radiojar.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/radioline.co/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/radiomango.fm/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/radiomarsho.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
@@ -31408,7 +31406,6 @@ https://doh.pub/dns-query
 [/www.aolnews.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/www.apple.com.edgekey.net/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/www.businessinsider.com.au/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
-[/www.clashverge.dev/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/www.cmoinc.org/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/www.destinationurl.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/www.dmm.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
