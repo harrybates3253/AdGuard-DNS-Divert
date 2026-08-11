@@ -1,5 +1,5 @@
 # AdGuard Home DNS 分流配置 - 黑名单模式（逐条规则）
-# 自动生成于 2026-08-10 09:03:51
+# 自动生成于 2026-08-11 09:03:08
 # 黑名单模式：命中国外域名走国外DNS，其他走国内DNS
 # 包含自定义域名DNS规则
 
@@ -63,7 +63,7 @@ https://doh.pub/dns-query
 [/youku.com/]https://dns.alidns.com/dns-query
 
 #==================================================
-# 国外域名规则（共 32940 个域名，逐条规则）
+# 国外域名规则（共 32944 个域名，逐条规则）
 # 已排除 18 个自定义DNS域名（含通配符模糊覆盖）
 #==================================================
 [/000webhost.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
@@ -1253,6 +1253,7 @@ https://doh.pub/dns-query
 [/aicoin.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/aig/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/aigo/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
+[/aihub.top/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/aim25.ac.uk/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/aimei133.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/aimhighergreatermerseyside.ac.uk/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
@@ -3338,6 +3339,7 @@ https://doh.pub/dns-query
 [/bas.ac.uk/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/baselinestudy.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/baselinestudy.org/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
+[/basemaps.arcgis.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/basford-hall.ac.uk/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/basildon.ac.uk/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/basilisk-browser.org/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
@@ -9968,6 +9970,7 @@ https://doh.pub/dns-query
 [/esher.ac.uk/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/esi.ac.uk/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/esim.ac.uk/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
+[/esim.redteago.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/esiss.ac.uk/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/eskimotube.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/eslite.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
@@ -10142,6 +10145,7 @@ https://doh.pub/dns-query
 [/expecthim.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/expekt.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/experience-vmware.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
+[/experience.arcgis.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/experiencebillmelater.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/experienceworks.ac.uk/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/expertmaker.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
