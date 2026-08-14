@@ -1,4 +1,3 @@
-.h.x
 0.xn--czrs0t
 0.xn--unup4y
 0.zone
@@ -6774,7 +6773,6 @@
 6.xn--czrs0t
 6.xn--fjq720a
 6.xn--unup4y
-6.z
 600064.com
 6000feet.com
 600146.net
@@ -7393,6 +7391,7 @@
 7-meeting.com
 7-mi.net
 7-wx.com
+7.l
 70.cc
 700618.com
 70098.com
@@ -18267,6 +18266,7 @@ c-yl.com
 c.admob.com
 c.citic
 c.pki.goog
+c.u
 c03b92b501009.beer
 c098d113b11031.beer
 c0c0b511e1009.beer
@@ -25098,7 +25098,6 @@ cq6969.com
 cq8.com
 cq96868.com
 cq9yuan.com
-cqV7E.3
 cqaaa.com
 cqace.com
 cqaflopack.com
@@ -42471,7 +42470,7 @@ h-shgroup.com
 h-ui.net
 h-world.com
 h-zl.net
-h.x
+h.c
 h0591.com
 h12.net
 h12345.com
@@ -90964,6 +90963,7 @@ u9time.com
 u9u8.com
 u9u9.com
 u9wan.com
+uS.8e
 uahh.site
 uancf.com
 uandi-wireless.com
@@ -101539,6 +101539,7 @@ y80s.com
 y8cyx6fvyxk3hs.com
 y8l.com
 y92ft2vz.com
+yV.B
 ya-bo888.com
 ya17.com
 ya19si8.lol
