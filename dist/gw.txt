@@ -1,5 +1,5 @@
 # AdGuard Home DNS 分流配置 - 黑名单模式（逐条规则）
-# 自动生成于 2026-08-23 08:47:09
+# 自动生成于 2026-08-24 08:44:55
 # 黑名单模式：命中国外域名走国外DNS，其他走国内DNS
 # 包含自定义域名DNS规则
 
@@ -63,7 +63,7 @@ https://doh.pub/dns-query
 [/youku.com/]https://dns.alidns.com/dns-query
 
 #==================================================
-# 国外域名规则（共 32950 个域名，逐条规则）
+# 国外域名规则（共 32953 个域名，逐条规则）
 # 已排除 18 个自定义DNS域名（含通配符模糊覆盖）
 #==================================================
 [/000webhost.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
@@ -13804,6 +13804,7 @@ https://doh.pub/dns-query
 [/historicbooks.ac.uk/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/history-uk.ac.uk/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/history.ac.uk/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
+[/historylines.net/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/historyofdota.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/historyofdota.net/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/historyofdota.org/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
@@ -16796,6 +16797,7 @@ https://doh.pub/dns-query
 [/kiwi/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/kiwi.kz/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/kiwibrowser.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
+[/kiwix.org/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/kk-whys.co.jp/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/kk.stream/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/kkbox.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
@@ -18493,6 +18495,7 @@ https://doh.pub/dns-query
 [/mcdonaldsarabia.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/mcdonaldsparties.co.nz/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/mcdonaldsparties.com.au/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
+[/mceindex.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/mcfog.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/mcisco.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/mcls.ac.uk/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
