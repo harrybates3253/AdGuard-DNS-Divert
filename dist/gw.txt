@@ -1,5 +1,5 @@
 # AdGuard Home DNS 分流配置 - 黑名单模式（逐条规则）
-# 自动生成于 2026-08-24 08:44:55
+# 自动生成于 2026-08-25 08:44:16
 # 黑名单模式：命中国外域名走国外DNS，其他走国内DNS
 # 包含自定义域名DNS规则
 
@@ -63,7 +63,7 @@ https://doh.pub/dns-query
 [/youku.com/]https://dns.alidns.com/dns-query
 
 #==================================================
-# 国外域名规则（共 32953 个域名，逐条规则）
+# 国外域名规则（共 32955 个域名，逐条规则）
 # 已排除 18 个自定义DNS域名（含通配符模糊覆盖）
 #==================================================
 [/000webhost.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
@@ -2033,6 +2033,7 @@ https://doh.pub/dns-query
 [/api.proxlet.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/api.pureapk.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/api.recaptcha.net/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
+[/api.shuaiapi.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/api.steampowered.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/api.together.xyz/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/api.viu.now.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
@@ -31525,6 +31526,7 @@ https://doh.pub/dns-query
 [/x3guide.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/x3vid.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/x6av.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
+[/x86.fr/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/x99av.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/x9wang.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/xa.yimg.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
