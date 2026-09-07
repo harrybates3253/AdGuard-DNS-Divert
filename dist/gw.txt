@@ -1,5 +1,5 @@
 # AdGuard Home DNS 分流配置 - 黑名单模式（逐条规则）
-# 自动生成于 2026-09-06 10:05:09
+# 自动生成于 2026-09-07 10:02:32
 # 黑名单模式：命中国外域名走国外DNS，其他走国内DNS
 # 包含自定义域名DNS规则
 
@@ -63,7 +63,7 @@ https://doh.pub/dns-query
 [/youku.com/]https://dns.alidns.com/dns-query
 
 #==================================================
-# 国外域名规则（共 32958 个域名，逐条规则）
+# 国外域名规则（共 32964 个域名，逐条规则）
 # 已排除 18 个自定义DNS域名（含通配符模糊覆盖）
 #==================================================
 [/000webhost.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
@@ -105,6 +105,8 @@ https://doh.pub/dns-query
 [/119474.xyz/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/11jav.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/123-hp.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
+[/123av.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
+[/123av.me/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/123bin.cc/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/123dapp.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/123dappipad.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
@@ -24575,6 +24577,7 @@ https://doh.pub/dns-query
 [/roborecall.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/robotoffice.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/robustnessiskey.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
+[/roc-taiwan.org/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/rochdalesfc.ac.uk/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/rocket-inc.net/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/rocket.chat/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
@@ -24629,6 +24632,7 @@ https://doh.pub/dns-query
 [/roughebonysex.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/roughman.net/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/roundtable.ac.uk/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
+[/roushuwo.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/routerboard.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/routesintolanguages.ac.uk/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/routledgehandbooks.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
@@ -27471,6 +27475,7 @@ https://doh.pub/dns-query
 [/taiwancon.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/taiwandaily.net/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/taiwandc.org/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
+[/taiwanembassy.org/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/taiwanhot.net/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/taiwanjobs.gov.tw/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/taiwanjustice.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
@@ -31377,6 +31382,7 @@ https://doh.pub/dns-query
 [/wtc/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/wtc.ac.uk/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/wtf/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
+[/wtfpass.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/wtfpeople.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/wto.org/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/wton-acl.ac.uk/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
