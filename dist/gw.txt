@@ -1,5 +1,5 @@
 # AdGuard Home DNS 分流配置 - 黑名单模式（逐条规则）
-# 自动生成于 2026-09-12 10:18:41
+# 自动生成于 2026-09-13 10:16:15
 # 黑名单模式：命中国外域名走国外DNS，其他走国内DNS
 # 包含自定义域名DNS规则
 
@@ -63,7 +63,7 @@ https://doh.pub/dns-query
 [/youku.com/]https://dns.alidns.com/dns-query
 
 #==================================================
-# 国外域名规则（共 32964 个域名，逐条规则）
+# 国外域名规则（共 32950 个域名，逐条规则）
 # 已排除 18 个自定义DNS域名（含通配符模糊覆盖）
 #==================================================
 [/000webhost.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
@@ -2017,15 +2017,12 @@ https://doh.pub/dns-query
 [/apexprint.com.hk/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/aphe.ac.uk/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/api-extractor.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
-[/api-gl.lbkrs.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/api-p.videomarket.jp/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/api-secure.recaptcha.net/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/api-verify.recaptcha.net/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/api.ai/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
-[/api.futunn.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/api.githubcopilot.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/api.groq.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
-[/api.lbkrs.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/api.linksalpha.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/api.mixpanel.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/api.moomoobull.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
@@ -2040,7 +2037,6 @@ https://doh.pub/dns-query
 [/api.together.xyz/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/api.viu.now.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/api.waqi.info/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
-[/api5.futunn.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/apiary.io/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/apibay.org/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/apidocs.linksalpha.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
@@ -6133,7 +6129,6 @@ https://doh.pub/dns-query
 [/cdn.angruo.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/cdn.arstechnica.net/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/cdn.assets.lfpcontent.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
-[/cdn.futustatic.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/cdn.helixstudios.net/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/cdn.js7k.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/cdn.jwplayer.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
@@ -8711,7 +8706,6 @@ https://doh.pub/dns-query
 [/download.cnet.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/download.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/download.dappcdn.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
-[/download.futunn.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/download.qatp1.net/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/download.qcpp1.net/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/download.qpdp1.net/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
@@ -21841,12 +21835,8 @@ https://doh.pub/dns-query
 [/openallweb.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/openamt.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/openapi-quote.longbridge.cn/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
-[/openapi-quote.longbridge.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/openapi-trade.longbridge.cn/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
-[/openapi-trade.longbridge.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
-[/openapi.futunn.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/openapi.longbridge.cn/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
-[/openapi.longbridge.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/openapiplatform.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/openapiservice.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/openart.ai/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
@@ -23880,14 +23870,13 @@ https://doh.pub/dns-query
 [/qstatus.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/qt-project.org/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/qt.io/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
-[/qtcard.futunn.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
-[/qtcardfthk.futufin.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/qtel/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/qtrac.eu/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/qtweeter.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/quadram.ac.uk/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/quadraminstitute.ac.uk/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/quadrat.ac.uk/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
+[/quakemachinex.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/qualcomm-email.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/qualcomm.co.id/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/qualcomm.co.in/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
@@ -27213,7 +27202,6 @@ https://doh.pub/dns-query
 [/suppig.net/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/supply-chain.ac.uk/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/supplybestjerseys.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
-[/support.futunn.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/supportfacebook.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/supremacy.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/supremacy.net/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
@@ -28508,8 +28496,6 @@ https://doh.pub/dns-query
 [/tracfone.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/tracingnetworks.ac.uk/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/tracking-location.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
-[/trade.futunn.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
-[/trade.longportapp.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/tradeup.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/tradevip1.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/tradingview.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
