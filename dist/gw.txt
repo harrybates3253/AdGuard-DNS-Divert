@@ -1,5 +1,5 @@
 # AdGuard Home DNS 分流配置 - 黑名单模式（逐条规则）
-# 自动生成于 2026-09-21 10:30:53
+# 自动生成于 2026-09-22 10:33:48
 # 黑名单模式：命中国外域名走国外DNS，其他走国内DNS
 # 包含自定义域名DNS规则
 
@@ -63,7 +63,7 @@ https://doh.pub/dns-query
 [/youku.com/]https://dns.alidns.com/dns-query
 
 #==================================================
-# 国外域名规则（共 32950 个域名，逐条规则）
+# 国外域名规则（共 32951 个域名，逐条规则）
 # 已排除 18 个自定义DNS域名（含通配符模糊覆盖）
 #==================================================
 [/000webhost.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
@@ -21109,6 +21109,7 @@ https://doh.pub/dns-query
 [/northumbria.ac.uk/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/norwichresearchpark.ac.uk/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/nos.nl/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
+[/note.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/notebooklm.google.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/notepad-plus-plus.org/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/notion-static.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
