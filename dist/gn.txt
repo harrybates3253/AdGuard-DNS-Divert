@@ -1,5 +1,5 @@
 # AdGuard Home DNS 分流配置 - 白名单模式（逐条规则）
-# 自动生成于 2026-09-23 10:34:07
+# 自动生成于 2026-09-24 10:23:09
 # 白名单模式：命中国内域名走国内DNS，其他走国外DNS
 # 包含自定义域名DNS规则
 
@@ -63,7 +63,7 @@ https://dns.google/dns-query
 [/youku.com/]https://dns.alidns.com/dns-query
 
 #==================================================
-# 国内域名规则（共 110831 个域名，逐条规则）
+# 国内域名规则（共 110829 个域名，逐条规则）
 # 已排除 26 个自定义DNS域名（含通配符模糊覆盖）
 #==================================================
 [/0.xn--czrs0t/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
@@ -3420,7 +3420,6 @@ https://dns.google/dns-query
 [/2loveyou.com/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/2m2j.com/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/2m3m.com/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
-[/2m4d.Ue/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/2ma2.com/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/2mcnxs.cc/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/2mdn-cn.net/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
@@ -4913,7 +4912,6 @@ https://dns.google/dns-query
 [/49you.com/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/49yu.com/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/49zz1110002a4.shop/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
-[/4K.W3/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/4a38863a11017.beer/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/4a4779c371024.beer/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/4abb.com/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
@@ -5013,7 +5011,6 @@ https://dns.google/dns-query
 [/4yx.com/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/4zt.com/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/5-link.com/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
-[/5.MX/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/5.biz/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/5.xn--czrs0t/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/5.xn--fjq720a/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
@@ -18212,6 +18209,7 @@ https://dns.google/dns-query
 [/c.admob.com/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/c.citic/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/c.pki.goog/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
+[/c.rUGQylKt/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/c03b92b501009.beer/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/c098d113b11031.beer/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/c0c0b511e1009.beer/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
@@ -36151,7 +36149,6 @@ https://dns.google/dns-query
 [/g-tar.com/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/g-var.com/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/g.biz/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
-[/g.u/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/g00gle.vip/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/g015bs0428137.luxe/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/g052m43e2ghn.com/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
@@ -97538,6 +97535,7 @@ https://dns.google/dns-query
 [/xfzllht.com/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/xfztgxt.com/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/xg-techgroup.com/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
+[/xg.C/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/xg1234.com/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/xg38.com/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/xgamecenter.com/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
