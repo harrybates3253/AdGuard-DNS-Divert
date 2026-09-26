@@ -1,5 +1,5 @@
 # AdGuard Home DNS 分流配置 - 白名单模式（逐条规则）
-# 自动生成于 2026-09-25 10:39:38
+# 自动生成于 2026-09-26 10:42:25
 # 白名单模式：命中国内域名走国内DNS，其他走国外DNS
 # 包含自定义域名DNS规则
 
@@ -63,7 +63,7 @@ https://dns.google/dns-query
 [/youku.com/]https://dns.alidns.com/dns-query
 
 #==================================================
-# 国内域名规则（共 111069 个域名，逐条规则）
+# 国内域名规则（共 111070 个域名，逐条规则）
 # 已排除 26 个自定义DNS域名（含通配符模糊覆盖）
 #==================================================
 [/0.xn--czrs0t/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
@@ -9653,6 +9653,9 @@ https://dns.google/dns-query
 [/9zhen.com/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/9znet.com/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/9zx.com/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
+[/M.FP/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
+[/Wk.5OkL/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
+[/Xa.pcD/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/a-b.cc/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/a-du.net/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/a-isv.org/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
@@ -18251,7 +18254,6 @@ https://dns.google/dns-query
 [/c.admob.com/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/c.citic/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/c.pki.goog/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
-[/c.rUGQylKt/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/c03b92b501009.beer/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/c098d113b11031.beer/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/c0c0b511e1009.beer/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
@@ -97742,7 +97744,6 @@ https://dns.google/dns-query
 [/xfzllht.com/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/xfztgxt.com/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/xg-techgroup.com/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
-[/xg.C/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/xg1234.com/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/xg38.com/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/xgamecenter.com/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
