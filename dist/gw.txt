@@ -1,5 +1,5 @@
 # AdGuard Home DNS 分流配置 - 黑名单模式（逐条规则）
-# 自动生成于 2026-10-01 11:16:41
+# 自动生成于 2026-10-02 11:17:24
 # 黑名单模式：命中国外域名走国外DNS，其他走国内DNS
 # 包含自定义域名DNS规则
 
@@ -63,7 +63,7 @@ https://doh.pub/dns-query
 [/youku.com/]https://dns.alidns.com/dns-query
 
 #==================================================
-# 国外域名规则（共 32954 个域名，逐条规则）
+# 国外域名规则（共 32957 个域名，逐条规则）
 # 已排除 18 个自定义DNS域名（含通配符模糊覆盖）
 #==================================================
 [/000webhost.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
@@ -11785,6 +11785,7 @@ https://doh.pub/dns-query
 [/fux.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/fuxporn.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/fuyin.net/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
+[/fuyin116.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/fuyindiantai.org/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/fuyu.org.tw/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/fuzokudx.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
@@ -19779,6 +19780,7 @@ https://doh.pub/dns-query
 [/muryouav.net/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/muscdn.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/musclegirlflix.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
+[/muse.ai/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/muse.jhu.edu/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/museumofwriting.ac.uk/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/museumwales.ac.uk/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
@@ -30629,6 +30631,7 @@ https://doh.pub/dns-query
 [/wallet.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/walletconnect.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/walletconnect.org/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
+[/wallhaven.cc/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/wallmama.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/wallornot.org/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/wallpapercasa.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
