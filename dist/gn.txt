@@ -1,5 +1,5 @@
 # AdGuard Home DNS 分流配置 - 白名单模式（逐条规则）
-# 自动生成于 2026-10-09 11:48:19
+# 自动生成于 2026-10-10 11:31:28
 # 白名单模式：命中国内域名走国内DNS，其他走国外DNS
 # 包含自定义域名DNS规则
 
@@ -63,7 +63,7 @@ https://dns.google/dns-query
 [/youku.com/]https://dns.alidns.com/dns-query
 
 #==================================================
-# 国内域名规则（共 111385 个域名，逐条规则）
+# 国内域名规则（共 111387 个域名，逐条规则）
 # 已排除 26 个自定义DNS域名（含通配符模糊覆盖）
 #==================================================
 [/0.xn--czrs0t/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
@@ -9384,6 +9384,7 @@ https://dns.google/dns-query
 [/998jx.com/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/998law.com/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/998tool.com/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
+[/999.Go/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/9991.com/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/999120.net/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/999125.com/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
@@ -9668,7 +9669,9 @@ https://dns.google/dns-query
 [/9zhen.com/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/9znet.com/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/9zx.com/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
-[/Su.N/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
+[/Ax.6/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
+[/Qa.oz/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
+[/Wv.Z/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/a-b.cc/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/a-du.net/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/a-isv.org/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
@@ -97521,7 +97524,6 @@ https://dns.google/dns-query
 [/x86pi.com/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/x8ds.com/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/x8sb.com/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
-[/xW.e03/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/xa-bank.com/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/xa-junxu.com/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/xa-online.com/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
