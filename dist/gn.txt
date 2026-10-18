@@ -1,5 +1,5 @@
 # AdGuard Home DNS 分流配置 - 白名单模式（逐条规则）
-# 自动生成于 2026-10-17 10:16:44
+# 自动生成于 2026-10-18 10:16:59
 # 白名单模式：命中国内域名走国内DNS，其他走国外DNS
 # 包含自定义域名DNS规则
 
@@ -63,7 +63,7 @@ https://dns.google/dns-query
 [/youku.com/]https://dns.alidns.com/dns-query
 
 #==================================================
-# 国内域名规则（共 110170 个域名，逐条规则）
+# 国内域名规则（共 110171 个域名，逐条规则）
 # 已排除 26 个自定义DNS域名（含通配符模糊覆盖）
 #==================================================
 [/0.xn--czrs0t/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
@@ -8396,7 +8396,6 @@ https://dns.google/dns-query
 [/9-zhuce.com/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/9.biz/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/9.plus/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
-[/9.u/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/9.xyz/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/90.cc/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/900.vc/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
@@ -9409,6 +9408,7 @@ https://dns.google/dns-query
 [/9zhen.com/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/9znet.com/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/9zx.com/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
+[/Wb.u/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/a-b.cc/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/a-du.net/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/a-isv.org/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
@@ -9492,6 +9492,7 @@ https://dns.google/dns-query
 [/a9c7f491710251.beer/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/a9market.com/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/a9vg.com/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
+[/aI.d/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/aa08072678.xyz/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/aa152.com/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/aa360.net/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
@@ -29716,6 +29717,7 @@ https://dns.google/dns-query
 [/downkr.com/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/downkuai.com/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/download.jetbrains.com/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
+[/download.microsoft.com/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/download.visualstudio.microsoft.com/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/download.windowsupdate.com/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/downloads.ltd/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
@@ -72720,7 +72722,6 @@ https://dns.google/dns-query
 [/q-dazzle.com/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/q-parking.com/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/q-supreme.com/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
-[/q.W/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/q.biz/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/q1.com/]https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/q1cm.com/]https://dns.alidns.com/dns-query https://doh.pub/dns-query

@@ -8330,7 +8330,6 @@
 9-zhuce.com
 9.biz
 9.plus
-9.u
 9.xyz
 90.cc
 900.vc
@@ -9343,6 +9342,7 @@
 9zhen.com
 9znet.com
 9zx.com
+Wb.u
 a-b.cc
 a-du.net
 a-isv.org
@@ -9426,6 +9426,7 @@ a9998f7ed11042.beer
 a9c7f491710251.beer
 a9market.com
 a9vg.com
+aI.d
 aa08072678.xyz
 aa152.com
 aa360.net
@@ -29658,6 +29659,7 @@ downke.com
 downkr.com
 downkuai.com
 download.jetbrains.com
+download.microsoft.com
 download.visualstudio.microsoft.com
 download.windowsupdate.com
 downloads.ltd
@@ -72664,7 +72666,6 @@ q-bakery.com
 q-dazzle.com
 q-parking.com
 q-supreme.com
-q.W
 q.biz
 q1.com
 q1cm.com
