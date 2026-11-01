@@ -1,5 +1,5 @@
 # AdGuard Home DNS 分流配置 - 黑名单模式（逐条规则）
-# 自动生成于 2026-10-31 11:26:00
+# 自动生成于 2026-11-01 11:28:32
 # 黑名单模式：命中国外域名走国外DNS，其他走国内DNS
 # 包含自定义域名DNS规则
 
@@ -63,7 +63,7 @@ https://doh.pub/dns-query
 [/youku.com/]https://dns.alidns.com/dns-query
 
 #==================================================
-# 国外域名规则（共 33000 个域名，逐条规则）
+# 国外域名规则（共 33004 个域名，逐条规则）
 # 已排除 18 个自定义DNS域名（含通配符模糊覆盖）
 #==================================================
 [/000webhost.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
@@ -1945,6 +1945,7 @@ https://doh.pub/dns-query
 [/anthemgame.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/anthemthegame.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/anthonycalzadilla.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
+[/anthropic.auth0.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/anthropic.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/anthropology.ac.uk/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/anti1984.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
@@ -5347,6 +5348,7 @@ https://doh.pub/dns-query
 [/bsixbrookehousesixthformcollege.ac.uk/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/bsixcollege.ac.uk/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/bsky.app/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
+[/bsky.chat/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/bsky.network/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/bsky.social/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/bsls.ac.uk/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
@@ -6787,7 +6789,9 @@ https://doh.pub/dns-query
 [/classics.ac.uk/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/classymomsex.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/claude.ai/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
+[/claude.app/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/claude.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
+[/claudemcpcontent.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/claudeusercontent.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/clb.org.hk/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/clc-london.ac.uk/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
