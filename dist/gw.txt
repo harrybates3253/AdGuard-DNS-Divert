@@ -1,5 +1,5 @@
 # AdGuard Home DNS 分流配置 - 黑名单模式（逐条规则）
-# 自动生成于 2026-11-04 12:03:19
+# 自动生成于 2026-11-05 12:24:46
 # 黑名单模式：命中国外域名走国外DNS，其他走国内DNS
 # 包含自定义域名DNS规则
 
@@ -63,7 +63,7 @@ https://doh.pub/dns-query
 [/youku.com/]https://dns.alidns.com/dns-query
 
 #==================================================
-# 国外域名规则（共 33007 个域名，逐条规则）
+# 国外域名规则（共 33008 个域名，逐条规则）
 # 已排除 18 个自定义DNS域名（含通配符模糊覆盖）
 #==================================================
 [/000webhost.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
@@ -4095,6 +4095,7 @@ https://doh.pub/dns-query
 [/bili2.cc/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/bili888.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/bili999.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
+[/bilibili.tv/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/biliintl.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/bilinovel.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/biliplus.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
