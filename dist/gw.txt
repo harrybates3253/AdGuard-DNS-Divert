@@ -1,5 +1,5 @@
 # AdGuard Home DNS 分流配置 - 黑名单模式（逐条规则）
-# 自动生成于 2026-11-06 12:22:35
+# 自动生成于 2026-11-07 11:51:31
 # 黑名单模式：命中国外域名走国外DNS，其他走国内DNS
 # 包含自定义域名DNS规则
 
@@ -18441,7 +18441,6 @@ https://doh.pub/dns-query
 [/maturewomenanal.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/maturexxxvideos.cc/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/mau.ac.uk/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
-[/maven.neoforged.net/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/maven.org/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/max.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/maxgo.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
@@ -20403,6 +20402,7 @@ https://doh.pub/dns-query
 [/neo-miracle.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/neodaas.ac.uk/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/neodb.social/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
+[/neoforged.net/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/neonatalsociety.ac.uk/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/neotokyo.supertop-100.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/neow.in/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
