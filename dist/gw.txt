@@ -1,5 +1,5 @@
 # AdGuard Home DNS 分流配置 - 黑名单模式（逐条规则）
-# 自动生成于 2026-11-20 12:59:37
+# 自动生成于 2026-11-21 12:54:45
 # 黑名单模式：命中国外域名走国外DNS，其他走国内DNS
 # 包含自定义域名DNS规则
 
@@ -63,7 +63,7 @@ https://doh.pub/dns-query
 [/youku.com/]https://dns.alidns.com/dns-query
 
 #==================================================
-# 国外域名规则（共 33009 个域名，逐条规则）
+# 国外域名规则（共 33012 个域名，逐条规则）
 # 已排除 18 个自定义DNS域名（含通配符模糊覆盖）
 #==================================================
 [/000webhost.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
@@ -8895,6 +8895,7 @@ https://doh.pub/dns-query
 [/ducere.ac.uk/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/duchy.ac.uk/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/duck/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
+[/duck.ai/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/duck.co/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/duck.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/duckdns.org/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
@@ -11885,6 +11886,7 @@ https://doh.pub/dns-query
 [/gameuxmasterguide.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/gamez.com.tw/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/gaming-notebooks.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
+[/gamma.app/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/gamousa.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/gandhara.ru/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/gandi.net/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
@@ -26457,6 +26459,7 @@ https://doh.pub/dns-query
 [/souka.xyz/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/soul-plus.net/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/soulcaliburhentai.net/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
+[/soulogic.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/soumo.info/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/sound-heritage.ac.uk/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/soundcloud.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
